@@ -1,0 +1,10 @@
+.card{
+  padding: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.card img {
+  height: 109.2px;
+  width: 200px;
+}

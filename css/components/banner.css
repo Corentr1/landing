@@ -1,0 +1,18 @@
+#banner {
+  text-align: center;
+  background-image: url("https://picsum.photos/id/1060/5598/3732.jpg?blur");
+  background-size: cover;
+  padding: 130px;
+}
+
+#banner h1 {
+  color: rgb(138, 179, 56);
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 50px;
+}
+#banner p {
+  color: rgb(231, 221, 221);
+  font-size: 15px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-weight: lighter;
+}
